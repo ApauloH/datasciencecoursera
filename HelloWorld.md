@@ -1,4 +1,3 @@
-##This is a markdown file
 
 
 ---
@@ -7,6 +6,10 @@ author: "PaulH"
 date: "July 12, 2015"
 output: html_document
 ---
+
+
+##This is a markdown file
+## above line added for Coursera course final project July 2015 Thank you
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
